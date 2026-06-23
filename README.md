@@ -23,7 +23,7 @@ A weather application built using HTML, CSS and JavaScript.
 
 ## Live Demo
 
-Paste Netlify URL here
+https://sunny-squirrel-f4f06b.netlify.app
 
 ## Author
 
